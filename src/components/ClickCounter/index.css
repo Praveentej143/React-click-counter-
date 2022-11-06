@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  padding: 4px;
+  font-family: Roboto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #2d3a35;
+}
+.count {
+  color: #c20a72;
+}
+.desc {
+  color: #2d3a35;
+}
+.btn {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+.btn:hover {
+  outline: none;
+  cursor: pointer;
+}
